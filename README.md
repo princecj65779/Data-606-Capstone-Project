@@ -8,7 +8,7 @@ Instacart, a grocery ordering and delivery software, seeks to make it simple to 
 
 
 ### Motivation
-Instacart is now looking for a model that predicts the user's next order based on recent purchases. The ability to forecast which products consumers are likely to buy again and automatically add them to cart based on those predictions, or to give a smooth interface for doing so, will improve their user experience. These forecasts of the products that consumers are likely to order can be sent to customers in personalized messages urging them to order again, by emphasizing the predicted products in such communications. I would like to make a prediction to model to test this outcome and work on Market Basket Analysis.
+Instacart is now looking for a model that predicts the user's next order based on recent purchases. The ability to forecast which products consumers are likely to buy again and automatically add them to cart based on those predictions. By emphasizing the predicted products in such communications. I would like to make a prediction to model to test this outcome and work on Market Basket Analysis.
 
 
 ### Data
