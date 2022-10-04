@@ -31,4 +31,5 @@ Some of the questions I want to answer are:
 ### Medthodology
 Initially, I plan to delve deep into the data to gain a complete understanding of the many variables. I intend to do some data wrangling and cleaning to cope with missing values and other issues. Once the data has been cleansed, I plan to perform exploratory analysis to extract any intriguing insights from it. Feature engineering will also be used to uncover new significant features that may be employed in the model construction process. Finally, various models will be created using machine learning methods. Data visualizations will support in the communication of these findings and will help to tell a story.
 
-<img>https://github.com/princecj65779/abc/blob/main/Copy%20of%20Copy%20of%2023andMe%20Genomics.png<img/>
+
+<img src="[/path/to/img.jpg](https://github.com/princecj65779/abc/blob/main/Copy%20of%20Copy%20of%2023andMe%20Genomics.png)" alt="Alt text" title="Optional title">
