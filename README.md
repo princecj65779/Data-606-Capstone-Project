@@ -33,3 +33,5 @@ Initially, I plan to delve deep into the data to gain a complete understanding o
 
 
 <img src="[/path/to/img.jpg](https://github.com/princecj65779/abc/blob/main/Copy%20of%20Copy%20of%2023andMe%20Genomics.png)" alt="Alt text" title="Optional title">
+
+![My Remote Image]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://github.com/princecj65779/abc/blob/main/Copy%20of%20Copy%20of%2023andMe%20Genomics.pn))
