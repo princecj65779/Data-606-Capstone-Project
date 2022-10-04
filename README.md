@@ -34,3 +34,7 @@ Initially, I plan to delve deep into the data to gain a complete understanding o
 
 ![Alternate image text](https://github.com/princecj65779/abc/blob/main/Copy%20of%20Copy%20of%2023andMe%20Genomics%20(2).png)
 
+![Alternate image text](https://github.com/princecj65779/abc/blob/main/city%20capstone.png)
+
+![Alternate image text](https://github.com/princecj65779/abc/blob/main/prescrb.png)
+
